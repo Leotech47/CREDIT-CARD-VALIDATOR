@@ -1,5 +1,8 @@
-# validador_bandeira_cartao_credito
-Criando um Validador de Bandeiras de Cartão de Crédito com o GitHub Copilot
+# Projeto de um aplicativo para realizar a validação de bandeiras de cartão de crédito
+## Curso: 
+### Aluno: Leonardo Silva
+
+Desafio: Criando um Validador de Bandeiras de Cartão de Crédito com o GitHub Copilot
 
 # Entendendo o Desafio
 
