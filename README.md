@@ -1,5 +1,5 @@
 # Projeto de um aplicativo para realizar a validação de bandeiras de cartão de crédito
-## Curso: 
+## Curso: Microsoft 50 Anos - GitHub Copilot
 ### Aluno: Leonardo Silva
 
 # Desafio: Criando um Validador de Bandeiras de Cartão de Crédito com o GitHub Copilot
