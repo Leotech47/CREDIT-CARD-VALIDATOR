@@ -2,7 +2,7 @@
 ## Curso: 
 ### Aluno: Leonardo Silva
 
-Desafio: Criando um Validador de Bandeiras de Cartão de Crédito com o GitHub Copilot
+# Desafio: Criando um Validador de Bandeiras de Cartão de Crédito com o GitHub Copilot
 
 # Entendendo o Desafio
 
